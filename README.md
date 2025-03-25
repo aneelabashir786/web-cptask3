@@ -4,7 +4,7 @@
 ## Introduction
 This is a web development project designed to create a responsive and dynamic website using modern web technologies. The project aims to provide an interactive and user-friendly interface while ensuring optimized performance and accessibility.
 
-## Features
+## Features of Project
 - Responsive design for seamless experience across devices
 - User authentication and authorization
 - Dynamic content rendering
